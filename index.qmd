@@ -1,0 +1,328 @@
+---
+title: "Über die Studie"
+page-layout: full
+---
+
+:::{#ueber-die-studie .content-block}
+
+::: {.grid}
+
+:::: {.g-col-12 .g-col-lg-8}
+
+#### Studienteilnehmende gesucht (Evite AMD Studie)
+
+# Studienteilnahme bei Drusen oder früher altersabhängiger Makuladegeneration (AMD)
+
+**Früher erkennen, was Ihr Sehvermögen gefährden könnte:**
+
+Im Rahmen einer wissenschaftlichen Studie untersuchen wir, ob sich mit einem speziellen Test des **Dämmerungs- und Nachtsehens** frühzeitig Hinweise darauf erkennen lassen, ob ein erhöhtes Risiko für eine spätere Sehverschlechterung durch **altersabhängige Makuladegeneration (AMD)** bestehen könnte.
+
+Bei Ihnen wurden bereits **Drusen** festgestellt? Dann könnte eine Teilnahme an unserer Studie für Sie in Frage kommen.
+
+[Jetzt Kontakt aufnehmen](mailto:Sophia.Dithmar@ukbonn.de){.btn .btn-dark .me-2}  
+[Weitere Informationen per E-Mail anfordern](mailto:Sophia.Dithmar@ukbonn.de){.btn .btn-outline-dark}
+
+<i class="bi bi-geo-alt"></i> **Ort:** Universitäts-Augenklinik Bonn  
+<i class="bi bi-check-circle"></i> **Teilnahme:** freiwillig und ohne Kosten  
+<i class="bi bi-calendar3"></i> **Dauer:** drei Untersuchungstermine über etwa 18 Monate
+
+::::
+
+:::: {.g-col-12 .g-col-lg-4}
+
+::: {.card .shadow-sm}
+
+::: {.card-body}
+
+### Was bedeutet eine Teilnahme für Sie?
+
+<i class="bi bi-clipboard2-pulse"></i> **Untersuchungen im Rahmen der Studie**  
+Teilnehmende erhalten mehrere augenärztliche Untersuchungen im Rahmen der wissenschaftlichen Studie.
+
+<i class="bi bi-moon-stars"></i> **Spezialisierte Sehtests**  
+Untersuchung des Dämmerungs- und Nachtsehvermögens mit spezialisierten Testverfahren.
+
+<i class="bi bi-chat-left-text"></i> **Besprechung der Untersuchungsergebnisse**  
+Die erhobenen Befunde werden im Anschluss durch ärztliches Fachpersonal erläutert.
+
+:::
+
+:::
+
+::::
+
+:::
+
+:::
+
+---
+
+:::{.content-block}
+
+## <i class="bi bi-question-circle"></i> Warum könnte die Studie für Sie interessant sein?
+
+Im Rahmen einer augenärztlichen Untersuchung wurden bei Ihnen **Drusen** festgestellt – also Stoffwechselablagerungen unter der Netzhaut.
+
+Drusen treten mit zunehmendem Alter häufig auf und sind anfangs oft **harmlos und ohne spürbare Beschwerden**. Sie gelten jedoch als **Risikofaktor** für die Entwicklung einer **Spätform der altersabhängigen Makuladegeneration (AMD)**.
+
+Diese Erkrankung kann das **zentrale Sehen** beeinträchtigen und damit zum Beispiel Lesen, Gesichtserkennung oder das Erkennen feiner Details erschweren.
+
+Nur ein kleiner Teil der Personen mit Drusen entwickelt tatsächlich eine AMD-Spätform. Bislang ist jedoch schwer vorherzusagen, **bei wem ein erhöhtes Risiko besteht – und bei wem nicht**.
+
+:::
+
+---
+
+:::{.content-block}
+
+## <i class="bi bi-bullseye"></i> Ziel der Studie
+
+Wir untersuchen mit einem speziellen **Dunkeladaptations-Sehtest** (Dämmerungs- und Nachtsehen), ob sich frühzeitig Hinweise darauf erkennen lassen, ob ein erhöhtes Risiko für eine spätere Sehverschlechterung bestehen könnte.
+
+Diese Untersuchung ist besonders relevant, da Veränderungen des **Nacht- und Dämmerungssehens** häufig bereits auftreten können, **bevor am Tag messbare Sehverschlechterungen erkennbar sind**.
+
+::: {.callout-note}
+
+## <i class="bi bi-lightbulb"></i> Warum Ihre Teilnahme wichtig ist
+
+Die Ergebnisse dieser Studie sollen dazu beitragen, **Methoden zur Früherkennung und besseren Einschätzung von AMD-Risiken** weiterzuentwickeln.
+
+:::
+
+:::
+
+---
+
+:::{.content-block}
+
+## <i class="bi bi-list-check"></i> Was erwartet Sie bei einer Teilnahme?
+
+::: {.grid}
+
+:::: {.g-col-12 .g-col-md-6 .g-col-xl-4}
+
+::: {.card .h-100}
+
+::: {.card-body}
+
+### <i class="bi bi-eye"></i> Augenärztliche Untersuchung
+Im Rahmen der Studie erfolgen mehrere augenärztliche Untersuchungen.
+
+:::
+
+:::
+
+::::
+
+:::: {.g-col-12 .g-col-md-6 .g-col-xl-4}
+
+::: {.card .h-100}
+
+::: {.card-body}
+
+### <i class="bi bi-moon-stars"></i> Spezialisierte Sehtests
+Tests zur Untersuchung des Dämmerungs- und Nachtsehvermögens.
+
+:::
+
+:::
+
+::::
+
+:::: {.g-col-12 .g-col-md-6 .g-col-xl-4}
+
+::: {.card .h-100}
+
+::: {.card-body}
+
+### <i class="bi bi-camera"></i> Moderne Netzhautdiagnostik
+Untersuchung der Netzhaut mit modernen bildgebenden Verfahren.
+
+:::
+
+:::
+
+::::
+
+:::: {.g-col-12 .g-col-md-6 .g-col-xl-4}
+
+::: {.card .h-100}
+
+::: {.card-body}
+
+### <i class="bi bi-chat-square-text"></i> Rückmeldung zu Befunden
+Besprechung der im Rahmen der Studie erhobenen Untersuchungsergebnisse.
+
+:::
+
+:::
+
+::::
+
+:::: {.g-col-12 .g-col-md-6 .g-col-xl-4}
+
+::: {.card .h-100}
+
+::: {.card-body}
+
+### <i class="bi bi-bar-chart"></i> Wissenschaftliche Forschung unterstützen
+Ihre Teilnahme hilft dabei, neue Erkenntnisse zur frühen AMD-Entwicklung zu gewinnen.
+
+:::
+
+:::
+
+::::
+
+:::: {.g-col-12 .g-col-md-6 .g-col-xl-4}
+
+::: {.card .h-100}
+
+::: {.card-body}
+
+### <i class="bi bi-person-check"></i> Freiwillige Teilnahme
+Die Teilnahme an der Studie ist freiwillig und kann jederzeit ohne Angabe von Gründen beendet werden.
+
+:::
+
+:::
+
+::::
+
+:::
+
+:::
+
+---
+
+:::{.content-block}
+
+## <i class="bi bi-calendar-event"></i> Ablauf der Studie
+
+Die Teilnahme umfasst **drei Untersuchungstermine**:
+
+::: {.grid}
+
+:::: {.g-col-12 .g-col-md-4}
+
+::: {.card .h-100}
+
+::: {.card-body}
+
+### <i class="bi bi-1-circle"></i> Erstuntersuchung
+Ausführliche Eingangsuntersuchung zu Beginn der Studie.
+
+:::
+
+:::
+
+::::
+
+:::: {.g-col-12 .g-col-md-4}
+
+::: {.card .h-100}
+
+::: {.card-body}
+
+### <i class="bi bi-2-circle"></i> Kontrolle nach 2 Monaten
+Erneute Untersuchung zur Verlaufskontrolle.
+
+:::
+
+:::
+
+::::
+
+:::: {.g-col-12 .g-col-md-4}
+
+::: {.card .h-100}
+
+::: {.card-body}
+
+### <i class="bi bi-3-circle"></i> Abschluss nach 18 Monaten
+Abschließende Untersuchung zur Beurteilung der Entwicklung.
+
+:::
+
+:::
+
+::::
+
+:::
+
+:::
+
+---
+
+:::{.content-block}
+
+## <i class="bi bi-people"></i> Wer kann teilnehmen?
+
+::: {.grid}
+
+:::: {.g-col-12 .g-col-lg-8}
+
+::: {.card}
+
+::: {.card-body}
+
+### Geeignet für
+
+- Personen mit **Drusen**
+- Personen mit **früher oder intermediärer AMD**
+- In der Regel **ab etwa 55 Jahren**
+- Ausreichende **Deutsch- oder Englischkenntnisse**
+
+:::
+
+:::
+
+::::
+
+:::: {.g-col-12 .g-col-lg-4}
+
+::: {.card}
+
+::: {.card-body}
+
+### Voraussetzung
+
+- Keine anderen schwerwiegenden Augenerkrankungen
+
+:::
+
+:::
+
+::::
+
+:::
+
+:::
+
+---
+
+:::{.content-block}
+
+## <i class="bi bi-geo-alt"></i> Wo findet die Studie statt?
+
+**Universitäts-Augenklinik Bonn**  
+Venusberg-Campus 1  
+53127 Bonn
+
+:::
+
+---
+
+:::{#teilnehmen .content-block}
+
+## <i class="bi bi-envelope"></i> Interesse an einer Teilnahme?
+
+Wenn Sie Fragen zur Studie haben oder prüfen möchten, ob eine Teilnahme für Sie in Frage kommt, freuen wir uns über Ihre Kontaktaufnahme.
+
+**E-Mail**
+
+[Sophia.Dithmar@ukbonn.de](mailto:Sophia.Dithmar@ukbonn.de)
+
+[Jetzt per E-Mail anfragen](mailto:Sophia.Dithmar@ukbonn.de){.btn .btn-dark}
+
+:::

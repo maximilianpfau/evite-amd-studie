@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Evite AMD-Studie"
+  search: false
+
+  navbar:
+    background: white
+    foreground: dark
+    left:
+      - href: "#ueber-die-studie"
+        text: "Über die Studie"
+      - href: "#teilnehmen"
+        text: "Teilnehmen"
+    right:
+      - text: "<img src='/assets/media/unibonn.webp' height='34'>"
+        href: https://www.uni-bonn.de
+      - text: "<img src='/assets/media/ukb.webp' height='34'>"
+        href: https://www.ukbonn.de
+        
+
+  page-footer:
+    right: 
+      © Maximilian Pfau, 2026 &nbsp;·&nbsp;
+      <a class="footer-link" href="/impressum.html">Legal notice / Impressum</a>
+
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    css: styles.css
